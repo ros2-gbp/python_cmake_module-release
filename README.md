@@ -1,3 +1,26 @@
+## python_cmake_module (rolling) - 0.11.0-1
+
+The packages in the `python_cmake_module` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling python_cmake_module` on `Thu, 27 Apr 2023 08:31:34 -0000`
+
+The `python_cmake_module` package was released.
+
+Version of package(s) in repository `python_cmake_module`:
+
+- upstream repository: https://github.com/ros2/python_cmake_module.git
+- release repository: https://github.com/ros2-gbp/python_cmake_module-release.git
+- rosdistro version: `0.10.2-2`
+- old version: `0.10.2-2`
+- new version: `0.11.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## python_cmake_module (rolling) - 0.10.2-1
 
 The packages in the `python_cmake_module` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling python_cmake_module` on `Mon, 13 Feb 2023 21:35:59 -0000`
